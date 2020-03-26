@@ -1,0 +1,7 @@
+D:\AssignmentProjects\C# Training\Aggregation\Aggregation\bin\Debug\Aggregation.exe.config
+D:\AssignmentProjects\C# Training\Aggregation\Aggregation\bin\Debug\Aggregation.exe
+D:\AssignmentProjects\C# Training\Aggregation\Aggregation\bin\Debug\Aggregation.pdb
+D:\AssignmentProjects\C# Training\Aggregation\Aggregation\obj\Debug\Aggregation.csprojAssemblyReference.cache
+D:\AssignmentProjects\C# Training\Aggregation\Aggregation\obj\Debug\Aggregation.csproj.CoreCompileInputs.cache
+D:\AssignmentProjects\C# Training\Aggregation\Aggregation\obj\Debug\Aggregation.exe
+D:\AssignmentProjects\C# Training\Aggregation\Aggregation\obj\Debug\Aggregation.pdb
